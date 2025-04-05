@@ -1,0 +1,118 @@
+{
+  "hash": "a374d827",
+  "configHash": "36649f03",
+  "lockfileHash": "749ec616",
+  "browserHash": "e297615d",
+  "optimized": {
+    "@supabase/supabase-js": {
+      "src": "../../@supabase/supabase-js/dist/module/index.js",
+      "file": "@supabase_supabase-js.js",
+      "fileHash": "632c78e6",
+      "needsInterop": false
+    },
+    "@tanstack/react-query": {
+      "src": "../../@tanstack/react-query/build/modern/index.js",
+      "file": "@tanstack_react-query.js",
+      "fileHash": "1633556b",
+      "needsInterop": false
+    },
+    "@tanstack/react-table": {
+      "src": "../../@tanstack/react-table/build/lib/index.mjs",
+      "file": "@tanstack_react-table.js",
+      "fileHash": "98accd8e",
+      "needsInterop": false
+    },
+    "react-router-dom": {
+      "src": "../../react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "8aa2feb3",
+      "needsInterop": false
+    },
+    "recharts": {
+      "src": "../../recharts/es6/index.js",
+      "file": "recharts.js",
+      "fileHash": "f3c6fb2d",
+      "needsInterop": false
+    },
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "97a317ab",
+      "needsInterop": true
+    },
+    "react-dom": {
+      "src": "../../react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "59c263eb",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "005dc8d7",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "876f20c3",
+      "needsInterop": true
+    },
+    "clsx": {
+      "src": "../../clsx/dist/clsx.mjs",
+      "file": "clsx.js",
+      "fileHash": "27598b9f",
+      "needsInterop": false
+    },
+    "lucide-react": {
+      "src": "../../lucide-react/dist/esm/lucide-react.js",
+      "file": "lucide-react.js",
+      "fileHash": "4a529451",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "3ded630b",
+      "needsInterop": true
+    },
+    "react-hot-toast": {
+      "src": "../../react-hot-toast/dist/index.mjs",
+      "file": "react-hot-toast.js",
+      "fileHash": "5bce8890",
+      "needsInterop": false
+    },
+    "tailwind-merge": {
+      "src": "../../tailwind-merge/dist/bundle-mjs.mjs",
+      "file": "tailwind-merge.js",
+      "fileHash": "413d9b09",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "browser-4V3VJP7U": {
+      "file": "browser-4V3VJP7U.js"
+    },
+    "browser-3LG4UA45": {
+      "file": "browser-3LG4UA45.js"
+    },
+    "chunk-4DG36E2S": {
+      "file": "chunk-4DG36E2S.js"
+    },
+    "chunk-WKPQ4ZTV": {
+      "file": "chunk-WKPQ4ZTV.js"
+    },
+    "chunk-U7P2NEEE": {
+      "file": "chunk-U7P2NEEE.js"
+    },
+    "chunk-UPELNCPK": {
+      "file": "chunk-UPELNCPK.js"
+    },
+    "chunk-BG45W2ER": {
+      "file": "chunk-BG45W2ER.js"
+    },
+    "chunk-HXA6O6EE": {
+      "file": "chunk-HXA6O6EE.js"
+    }
+  }
+}
